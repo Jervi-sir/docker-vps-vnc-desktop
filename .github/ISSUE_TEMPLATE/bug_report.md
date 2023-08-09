@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Versions (please complete the following information):**
- - OS: [e.g. Ubuntu 22.04]
+ - OS: [e.g. Ubuntu 20.04]
  - image tag [e.g. develop]
 
 **Additional context**

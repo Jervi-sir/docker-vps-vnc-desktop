@@ -18,7 +18,7 @@ container, and test the changes:
 
 ```
 make clean
-FLAVOR=lxqt ARCH=amd64 IMAGE=ubuntu:22.04 make build
+FLAVOR=lxqt ARCH=amd64 IMAGE=ubuntu:20.04 make build
 make run
 ```
 
